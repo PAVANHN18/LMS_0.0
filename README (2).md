@@ -45,33 +45,6 @@ The system allows employees to apply for leave, check leave balance, and allows 
   - reason
   - status
 
-## Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PAVANHN18/LMS_0.0.git
-   cd LMS_0.0
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up PostgreSQL and configure `DATABASE_URL` in `.env` file:
-   ```env
-   DATABASE_URL=postgresql://username:password@localhost:5432/lms_db
-   ```
-
-4. Run the FastAPI server:
-   ```bash
-   uvicorn main:app --reload
-   ```
-
-5. Access API docs at:
-   ```
-   http://127.0.0.1:8000/docs
-   ```
 
 ## Future Enhancements
 - User authentication & role-based access
