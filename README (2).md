@@ -22,7 +22,7 @@ The system allows employees to apply for leave, check leave balance, and allows 
 
 ### Employee Management
 - **POST** `/employees/` – Add new employee
-- **GET** `/employees/{employee_id}` – Get employee details
+
 
 ### Leave Management
 - **POST** `/leave/` – Apply for leave
