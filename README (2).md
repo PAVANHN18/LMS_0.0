@@ -52,8 +52,8 @@ The system allows employees to apply for leave, check leave balance, and allows 
 - Caching frequently accessed data using Redis
 - Deploy backend on Kubernetes for scalability
 
-##Access link for FastAPI
-- public hosted on render both backend and DB
+## Access link for FastAPI
+- Hosted on render both backend and DB(public)
 - https://lms-0-0.onrender.com/docs 
 ---
 **Author:** Pavan H N
