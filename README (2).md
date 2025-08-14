@@ -53,7 +53,7 @@ The system allows employees to apply for leave, check leave balance, and allows 
 - Deploy backend on Kubernetes for scalability
 
 ##Access link for FastAPI
-public hosted on render both backend and DB
-https://lms-0-0.onrender.com/docs 
+- public hosted on render both backend and DB
+- https://lms-0-0.onrender.com/docs 
 ---
 **Author:** Pavan H N
